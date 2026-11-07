@@ -22,7 +22,7 @@
         "-m",
         "cogame_derks_gym.server"
       ],
-      "source_url": "https://github.com/Metta-AI/cogame-derks-gym/tree/main"
+      "source_url": "https://github.com/softmax-universe/cogame-derks-gym/tree/main"
     },
     "config_schema": {
       "$schema": "https://json-schema.org/draft/2020-12/schema",
@@ -542,17 +542,17 @@
     "protocols": {
       "player": {
         "type": "uri",
-        "value": "https://github.com/Metta-AI/cogame-derks-gym/blob/main/docs/PROTOCOL.md"
+        "value": "https://github.com/softmax-universe/cogame-derks-gym/blob/main/docs/PROTOCOL.md"
       },
       "global": {
         "type": "uri",
-        "value": "https://github.com/Metta-AI/cogame-derks-gym/blob/main/docs/PROTOCOL.md"
+        "value": "https://github.com/softmax-universe/cogame-derks-gym/blob/main/docs/PROTOCOL.md"
       }
     },
     "docs": {
       "readme": {
         "type": "uri",
-        "value": "https://github.com/Metta-AI/cogame-derks-gym/blob/main/README.md"
+        "value": "https://github.com/softmax-universe/cogame-derks-gym/blob/main/README.md"
       },
       "pages": [
         {
@@ -560,7 +560,7 @@
           "title": "The loadout draft",
           "content": {
             "type": "uri",
-            "value": "https://github.com/Metta-AI/cogame-derks-gym/blob/main/docs/DRAFT.md"
+            "value": "https://github.com/softmax-universe/cogame-derks-gym/blob/main/docs/DRAFT.md"
           }
         },
         {
@@ -568,7 +568,7 @@
           "title": "Porting PufferLib envs",
           "content": {
             "type": "uri",
-            "value": "https://github.com/Metta-AI/cogame-derks-gym/blob/main/docs/PORTING.md"
+            "value": "https://github.com/softmax-universe/cogame-derks-gym/blob/main/docs/PORTING.md"
           }
         }
       ]
@@ -589,7 +589,7 @@
       "env": {
         "PLAYER_SCRIPTED": "puffer-forge"
       },
-      "source_url": "https://github.com/Metta-AI/cogame-derks-gym/tree/main/players",
+      "source_url": "https://github.com/softmax-universe/cogame-derks-gym/tree/main/players",
       "resources": {
         "requests": {
           "cpu": "500m",
@@ -614,7 +614,7 @@
       "env": {
         "PLAYER_SCRIPTED": "lane-brawler"
       },
-      "source_url": "https://github.com/Metta-AI/cogame-derks-gym/tree/main/players",
+      "source_url": "https://github.com/softmax-universe/cogame-derks-gym/tree/main/players",
       "resources": {
         "requests": {
           "cpu": "500m",
@@ -638,7 +638,7 @@
       ],
       "env": {
         "PLAYER_PROMPT": "derk-drafter-v1"},
-      "source_url": "https://github.com/Metta-AI/cogame-derks-gym/tree/main/players",
+      "source_url": "https://github.com/softmax-universe/cogame-derks-gym/tree/main/players",
       "resources": {
         "requests": {
           "cpu": "500m",
