@@ -340,7 +340,7 @@ jobs:
               echo "::error::SOFTMAX_TOKEN secret is not set but the" \
                    " UPLOAD_REQUIRED repo variable is true: uploads are" \
                    " expected to run. Restore the secret" \
-                   " (dispatch propagate-secrets.yml in Metta-AI/coworld-builder)" \
+                   " (dispatch propagate-secrets.yml in softmax-universe/coworld-builder)" \
                    " or clear the variable."
               exit 1
             fi
